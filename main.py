@@ -14,8 +14,3 @@ def count_and_sum(numbers):
 
     return count, sum
 
-
-# numbers = [10, -20, 30, 40, 50, -25, 2, -40]
-# count, total_sum = count_and_sum(numbers)
-# print("Количество четных положительных элементов:", count)
-# print("Сумма четных положительных элементов:", total_sum)
