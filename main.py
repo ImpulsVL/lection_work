@@ -13,4 +13,3 @@ def count_and_sum(numbers):
             sum += num
 
     return count, sum
-
